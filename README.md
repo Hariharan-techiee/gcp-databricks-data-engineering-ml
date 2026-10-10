@@ -248,7 +248,6 @@ This project demonstrates practical experience with:
 
 ## Future Enhancements
 
-- Add automated data quality gates before downstream processing.
 - Add notifications and operational alerting for pipeline failures.
 - Add model evaluation and recommendation-quality metrics.
 - Add CI/CD for SQL, notebooks, and Airflow DAGs.
