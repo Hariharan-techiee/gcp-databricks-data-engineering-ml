@@ -12,7 +12,7 @@ PostgreSQL → Databricks → Google Cloud Storage (Delta Lake) → BigQuery →
 
 Machine learning recommendations are generated using Spark MLlib ALS and stored in BigQuery. Cloud Composer orchestrates the pipeline from raw ingestion through curated processing and recommendation generation.
 
-![Project Architecture](Architecture/End-to-End Data Engineering Architecture.png)
+![Project Architecture](<Architecture/End-to-End Data Engineering Architecture.png>)
 
 ## Technology Stack
 
